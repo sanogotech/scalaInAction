@@ -13,4 +13,8 @@ Checking if the standard Scala applications are installed
   Installed sbtn
   Installed scalafmt
   
+ ## Sbt  command
+ - run
+ - sbt package
+ - spark-submit ./target/scala-2.11/hello_2.11-1.0.jar
   
